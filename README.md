@@ -9,3 +9,7 @@ In the imports of the program, the is a line that looks like what follows:
       
 This will have to be changed to the directory that Numpy_Neural_Library is on
 your computer. The program will tell you if you didn't install the repository, or entered the incorrect directory
+This program requires the following packages:
+Keras
+Numpy_Neural_Library repository
+Numpy
